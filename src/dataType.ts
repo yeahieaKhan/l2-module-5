@@ -1,9 +1,9 @@
 const user: {
-    firstName: string;
+    firstName: "sohag";
     middleName: string;
     lastName?: string;
 } = {
-    firstName: "Sohag",
+    firstName: "sohag",
     middleName: "hossain",
     
 }
