@@ -4,4 +4,7 @@ function add(num1: number, num2: number) {
 
 add(2, 2)
 
-console.log(add(2,3))
+console.log(add(2, 3))
+
+
+    
