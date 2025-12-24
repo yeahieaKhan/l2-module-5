@@ -37,3 +37,10 @@ const user: User = {
 
 const { name: { firstName, middleName, lastName } } = user;
 console.log(firstName)
+
+
+const user1: {
+    
+} = {
+    
+}
