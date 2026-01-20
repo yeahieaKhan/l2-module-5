@@ -15,5 +15,5 @@ const kgToGMConverter = (input: string | number) : string | number | undefined =
 }
 
 
-const result1 = kgToGMConverter("5") as number;
-console.log(result1)
+const result1 = kgToGMConverter("5") ;
+console.log(result1)    
