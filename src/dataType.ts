@@ -17,4 +17,7 @@ console.log(a)
 
 
 let same: string = "Sohag";
-console.log(same)
+console.log(same);
+
+const firstChar = same.charAt(0);
+console.log(firstChar); // "S"
