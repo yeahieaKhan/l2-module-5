@@ -25,5 +25,14 @@
 
 let name: string = "Sohag";
 
-const index: number = 2;
-console.log(name.charAt(index)); // "h"
+// const index: number = 2;
+// console.log(name.charAt(index)); // "h"
+
+
+console.log(name.charAt);
+
+let person = {
+    name: "Sohag",
+    age: 25,
+    city: "Sirajgaj",
+}
