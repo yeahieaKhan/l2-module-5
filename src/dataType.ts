@@ -9,3 +9,8 @@ const user: {
 }
 
 console.log(user)
+
+
+
+let a: number = 126554;
+console.log(a)

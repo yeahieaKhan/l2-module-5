@@ -26,4 +26,11 @@ console.log(typeof hello1)
 
 
 
+const add = <T> (a:T,b :T ) : T => {
+  return a + b;
+}
+
+const sum = add(12, 20);
+
+console.log(sum)
 
