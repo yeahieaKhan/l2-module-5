@@ -14,3 +14,7 @@ console.log(user)
 
 let a: number = 126554;
 console.log(a)
+
+
+let same: string = "Sohag";
+console.log(same)
