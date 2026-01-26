@@ -7,3 +7,16 @@ numbers.forEach((num) => {
 
 let fruits: Array<string> = ["apple", "banana", "mango"];
 console.log(fruits);
+
+
+type Person = {
+  name: string;
+  age: number;
+};
+
+let people: Person[] = [
+  { name: "Sohag", age: 24 },
+  { name: "Rahim", age: 30 }
+];
+
+console.log(people);
