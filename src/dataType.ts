@@ -89,3 +89,8 @@ let person2: TPerson = {
 }
 
 console.log(person2)
+
+
+
+
+
